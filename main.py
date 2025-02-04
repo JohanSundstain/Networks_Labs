@@ -9,7 +9,7 @@ def parse_response(resp):
 
 def  main():
     sys("chcp 65001")
-    list_of_resorces = ['google.com', 'yandex.ru', 'random.org', 'chess.com', 'youtube.com']
+    list_of_resorces = ['google.com', 'yandex.ru', 'random.org', 'chess.com', 'youtube.com', 'nsu.ru', 'openai.com', 'chatgpt.com', 'habr.com', 'sky.pro']
 
     if path.exists("answer.csv"):
         rm("answer.csv")
