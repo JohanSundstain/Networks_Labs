@@ -1,0 +1,5 @@
+google.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 100ms, Maximum = 123ms, Average = 106ms";
+yandex.ru;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 91ms, Maximum = 707ms, Average = 247ms";
+random.org;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 91ms, Maximum = 800ms, Average = 276ms";
+chess.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 90ms, Maximum = 297ms, Average = 154ms";
+youtube.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 101ms, Maximum = 471ms, Average = 275ms";
