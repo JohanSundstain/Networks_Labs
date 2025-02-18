@@ -17,18 +17,18 @@ def  main():
 
     res_lines = []
 
-    for res in list_of_resorces:
-        answer = sys(f'ping {res} > {res}',)
+    for resourse in list_of_resorces:
+        answer = sys(f'ping {resourse} > {resourse}',)
         if answer == 0:
-            with open(res, "r") as f:
-                res_lines.append(f"{res};\"{parse_response(f.read())}\";")
+            with open(resourse, "r") as f:
+                res_lines.append(f"{resourse};\"{parse_response(f.read())}\";")
         else:
             print("Something went wrong")
     
     file.write('\n'.join(res_lines))
     file.close()
-    for res in list_of_resorces:
-        rm(res)
+    for resourse in list_of_resorces:
+        rm(resourse)
 
 if __name__ == "__main__":
     main()

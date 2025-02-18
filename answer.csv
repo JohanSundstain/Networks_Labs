@@ -1,5 +1,10 @@
-google.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 100ms, Maximum = 123ms, Average = 106ms";
-yandex.ru;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 91ms, Maximum = 707ms, Average = 247ms";
-random.org;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 91ms, Maximum = 800ms, Average = 276ms";
-chess.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 90ms, Maximum = 297ms, Average = 154ms";
-youtube.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 101ms, Maximum = 471ms, Average = 275ms";
+google.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 98ms, Maximum = 103ms, Average = 101ms";
+yandex.ru;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 87ms, Maximum = 95ms, Average = 91ms";
+random.org;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 102ms, Maximum = 103ms, Average = 102ms";
+chess.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 89ms, Maximum = 95ms, Average = 92ms";
+youtube.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 97ms, Maximum = 103ms, Average = 101ms";
+nsu.ru;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 58ms, Maximum = 81ms, Average = 68ms";
+openai.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 98ms, Maximum = 110ms, Average = 104ms";
+chatgpt.com;"    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),    Minimum = 165ms, Maximum = 213ms, Average = 192ms";
+habr.com;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 85ms, Maximum = 91ms, Average = 89ms";
+sky.pro;"    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),    Minimum = 85ms, Maximum = 98ms, Average = 90ms";
